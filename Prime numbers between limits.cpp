@@ -1,4 +1,4 @@
-/*C++ Program to isplay all the prime numbers between two given limits.
+/*C++ Program to display all the prime numbers between two given integral limits.
 
  Author: Nilabja Das
  
