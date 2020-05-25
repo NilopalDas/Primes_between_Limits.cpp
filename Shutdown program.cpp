@@ -3,8 +3,6 @@
 #include<iostream>
 #include<stdlib.h>
 
-/*Some changes are to be introduced*/
-
 using namespace std;
 
 int main()
